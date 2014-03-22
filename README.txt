@@ -17,6 +17,8 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
+https://github.com/BogdanDIA/nec2-array/raw/master/pictures/rootMusic.png
+
 Description of the tools:
 
 This is a set of tools that simulate an antenna array to obtain array output which in turn is used by Matlab to run various Direction Of Arrival (DOA) algorithms. The 4Nec2 MoM program is used to simulate one or more signal sources that emmit a modulated signal toward the array. Matlab files are provided for evaluation of various DOA algorithms.
