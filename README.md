@@ -47,32 +47,32 @@ matlab/ - directory that contains .m files for executing the various DOA algorit
 
 **How to run:**
 
- place the nec2-array in the 4Nec2 installation directory
- ./bootstrap.sh
+ place the nec2-array in the 4Nec2 installation directory  
+ ./bootstrap.sh  
 
 To run one simulation:
 
  ./generate_one
-wine cmd.exe will give windows comand prompt
-cd to ${4Nec2}/models directory
-model.bat
- ./parse_one
+wine cmd.exe will give windows comand prompt  
+cd to ${4Nec2}/models directory  
+model.bat  
+ ./parse_one  
 
 To run a full azimuth sweep:
 
- ./generate_sweep
-wine cmd.exe will give windows comand prompt
-cd to ${4Nec2}/models directory
-m_sweep.bat
- ./parse_sweep
+ ./generate_sweep  
+wine cmd.exe will give windows comand prompt  
+cd to ${4Nec2}/models directory  
+m_sweep.bat  
+ ./parse_sweep  
 
 To calculate mutual impedance matrix:
 
- ./generate_mutual
-wine cmd.exe will give windows comand prompt
-cd to ${4Nec2}/models directory
-mutual.bat
- ./parse_mutual
+ ./generate_mutual  
+wine cmd.exe will give windows comand prompt  
+cd to ${4Nec2}/models directory  
+mutual.bat  
+ ./parse_mutual  
 
 **Run matlab files (phased array module is needed):**
  rootMusic  
