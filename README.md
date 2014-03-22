@@ -1,5 +1,5 @@
 /*
-Tools for Antenna array simulation in Nec2
+Tools for Antenna array simulation in Nec2  
 Copyright (C) 2014 Bogdan Diaconescu
 
 This program is free software; you can redistribute it and/or
