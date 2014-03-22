@@ -15,9 +15,11 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
-*/
+*/  
 
-Description of the tools:
+##Tools for Antenna array simulation in Nec2
+
+**Description of the tools:**
 
 This is a set of tools that simulate an antenna array to obtain array output which in turn is used by Matlab to run various Direction Of Arrival (DOA) algorithms. The 4Nec2 MoM program is used to simulate one or more signal sources that emmit a modulated signal toward the array. Matlab files are provided for evaluation of various DOA algorithms.
 
