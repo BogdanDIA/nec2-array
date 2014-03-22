@@ -52,7 +52,7 @@ matlab/ - directory that contains .m files for executing the various DOA algorit
 
 To run one simulation:
 
- ./generate_one
+ ./generate_one  
 wine cmd.exe will give windows comand prompt  
 cd to ${4Nec2}/models directory  
 model.bat  
