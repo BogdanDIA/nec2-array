@@ -37,12 +37,12 @@ parse_sweep.cc - parse the set of 4Nec2 out files produced by m_sweep.bat and ge
 
 matlab/ - directory that contains .m files for executing the various DOA algorithms.
 
-How to build:
+**How to build:**
 
  cd lib
  make all
 
-How to run:
+**How to run:**
 
  place the nec2-array in the 4Nec2 installation directory
  ./bootstrap.sh
@@ -71,7 +71,7 @@ cd to ${4Nec2}/models directory
 mutual.bat
  ./parse_mutual
 
-Run matlab files (phased array module is needed):
+**Run matlab files (phased array module is needed):**
  rootMusic
  esprit
  wsf
