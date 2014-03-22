@@ -17,7 +17,8 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
-https://github.com/BogdanDIA/nec2-array/raw/master/pictures/rootMusic.png
+![alt text][logo]
+[logo]: https://github.com/BogdanDIA/nec2-array/raw/master/pictures/rootMusic.png "Root Music DOA"
 
 Description of the tools:
 
