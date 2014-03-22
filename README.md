@@ -75,9 +75,10 @@ mutual.bat
  ./parse_mutual
 
 **Run matlab files (phased array module is needed):**
- rootMusic
- esprit
- wsf
- beamscan
- mvdr
+ rootMusic  
+ esprit  
+ wsf  
+ beamscan  
+ mvdr  
+
 
