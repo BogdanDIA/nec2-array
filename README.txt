@@ -69,7 +69,7 @@ cd to ${4Nec2}/models directory
 mutual.bat
  ./parse_mutual
 
-Run matlaba files (phased array module is needed):
+Run matlab files (phased array module is needed):
  rootMusic
  esprit
  wsf
