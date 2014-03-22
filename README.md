@@ -1,6 +1,5 @@
-/*
 Tools for Antenna array simulation in Nec2  
-Copyright (C) 2014 Bogdan Diaconescu
+Copyright (C) 2014 yo3iiu@yo3iiu.ro
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
@@ -15,7 +14,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
-*/  
 
 ##Tools for Antenna array simulation in Nec2
 
